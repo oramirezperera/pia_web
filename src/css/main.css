@@ -1,0 +1,13 @@
+/* some stuff */
+
+.cover{
+    object-fit: cover !important;
+}
+
+.home_text{
+    font-size: 20px;
+}
+
+.platzi_logo {
+    text-decoration: none !important;
+}
